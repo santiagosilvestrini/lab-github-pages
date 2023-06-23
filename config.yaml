@@ -1,4 +1,5 @@
-baseurl: /
+baseurl: https://santiagosilvestrini.github.io/lab-github-pages/
+publishDir: docs
 languageCode: en-US
 title: Mi Pagina en Githunb Pages
 theme: hugo-lithium
