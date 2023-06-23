@@ -9,4 +9,7 @@ tags:
   - Github
 ---
 
-Este es un nuevo post para mi blog
+Este es un nuevo post para mi blog.
+
+Nuevo contenido
+
